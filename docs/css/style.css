@@ -66,10 +66,10 @@ hr{
 
 .pad {padding: 130px 0px;}
 
-.parallax-one { background: url('../img/promo/p7.jpg') fixed 50%;}
-.parallax-two { background: url('../img/background/overlay.png'), url('../img/promo/p7.jpg') fixed 50%;}
-.parallax-three { background: url('../img/background/overlay.png'), url('../img/promo/p7.jpg') fixed 50%;}
-.parallax-four { background: url('../img/background/overlay.png'), url('../img/promo/p7.jpg') fixed 50%;}
+.parallax-one { background: url('../img/background/b1.jpg') fixed 50%;}
+.parallax-two { background: url('../img/background/overlay.png'), url('../img/background/b1.jpg') fixed 50%;}
+.parallax-three { background: url('../img/background/overlay.png'), url('../img/background/b1.jpg') fixed 50%;}
+.parallax-four { background: url('../img/background/overlay.png'), url('../img/background/b1.jpg') fixed 50%;}
 
 /* 
  * Basic CSS ends 
